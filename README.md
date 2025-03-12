@@ -1,1 +1,1 @@
-# collegeadmissionPredictor-project
+# CollegeAdmissionPredictor
